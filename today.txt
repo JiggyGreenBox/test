@@ -1,0 +1,82 @@
+
+08/12/2016
+
+----------------------------------------------------------
+DONE
+----------------------------------------------------------
+
+1. login done - porting pending
+
+
+----------------------------------------------------------
+PENDING
+----------------------------------------------------------
+
+2. cpp
+2. stretch
+2. circuit
+2. opencv
+2. arduino
+2. guitar
+
+
+1. 20 times each exam piece
+1. chromatic 5 times @ 88
+1. sight reading 1 hour
+1. scales 20 times each
+1. ear test youtube links
+
+
+1. mindglow
+	a. css
+		forms
+		gps
+		login - check responsiveness, splash logo seperation
+		port - form selected from routes to all pages
+		analytics display
+		car single
+		adjust colors for tables in emps,cars,companies
+
+		hide active / inactive on employees
+		add active blue to all forms
+		replace all alerts with snackbars
+		meetings module
+
+	b. report content
+
+	c. admin app
+		new grid styling
+		route shift supervisor
+		dash to card viewpager
+
+	d. report styling
+		page single
+		phone mock up
+		laptop mock up
+		print test page
+
+	e. reports
+		problems report
+		monthly report
+
+	f. final
+		check forms
+		check nav links
+
+1. illustrator doodles
+1. neon
+	port hotkeys
+	css
+		style stats
+		item wise style
+
+1. construct - architecture / sketches
+1. forbes - architecture / sketches
+1. kushal - get .ai files
+1. anna calculator - touch ups
+
+----------------------------------------------------------
+
+
+
+
